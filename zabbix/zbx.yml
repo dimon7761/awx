@@ -28,7 +28,7 @@
   vars:
     zabbix_server: "zabbix.dl.loc"
     zabbix_major_version: "4.2"
-    zabbix_version: "4.2-1"
+    zabbix_version: "4.2-2"
     logfile_size: "256"
     enableremotecommands: "1"
     timeout: "3"
